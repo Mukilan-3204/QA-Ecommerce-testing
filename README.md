@@ -1,4 +1,4 @@
-🧪 Manual Testing Project – E-commerce Web Application
+Manual Testing Project – E-commerce Web Application
 
 📌 Overview
 This project demonstrates manual testing of an e-commerce web application using real-world QA practices. The goal is to validate core functionalities and identify defects.
@@ -6,40 +6,42 @@ This project demonstrates manual testing of an e-commerce web application using 
 Application Tested
 https://www.saucedemo.com
 
-Objectives
-- Perform manual test execution
-- Identify bugs and usability issues
-- Validate application workflows
+ Objectives
+- Perform manual test execution  
+- Identify bugs and usability issues  
+- Validate application workflows  
 
  Tools Used
-- Microsoft Excel (Test Cases)
-- MS Word (Bug Reports)
-- Browser (Manual Testing)
+- Microsoft Excel  
+- MS Word  
+- Web Browser  
 
-Modules Tested
-- Login
-- Product Page
-- Cart
-- Checkout
-- Logout
+Modules Covered
+- Login  
+- Product Page  
+- Cart  
+- Checkout  
+- UI & Performance  
 
  Test Summary
-- Total Test Cases: 10  
-- Passed: 9  
-- Failed: 1  
-- Bugs Identified: 2  
+- Total Test Cases: 50  
+- Passed: 44  
+- Failed: 6  
+- Bugs Identified: 6  
 
-Key Findings
-- Minor UI alignment issue observed
-- Edge case validation issue in checkout
+Key Defects
+- Checkout validation issue  
+- Cart total mismatch  
+- UI alignment issue  
+- Performance delay in cart  
 
 📁 Project Files
-- Test_Cases.xlsx
-- Bug_Report.docx
-- Test_Summary.docx
+- QA_Test_Cases.xlsx  
+- Bug_Report.docx  
+- Test_Summary.docx  
 
-Outcome:
-The application is functionally stable with minor defects. Testing ensured that major workflows are working as expected.
+ Outcome
+The application is functionally stable with minor defects. Testing ensured that all major workflows are validated.
 
 ---
-⭐ This project showcases my skills in manual testing, defect reporting, and quality assurance.
+⭐ This project showcases my skills in manual testing, defect reporting, and QA processes.
